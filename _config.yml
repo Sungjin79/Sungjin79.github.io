@@ -143,7 +143,14 @@ content:
         caption: 2013.04~2013.11 
         description: |
           - 부품수급 검증모듈 개발참여
-        
+
+      - layout: left
+        title: 삼성전자
+        sub_title: 삼성전자 무선사업부 HR시스템 개발
+        caption: 2012.07~2013.03 
+        description: |
+          - 삼성전자 무선사업부 인사모듈 개발참여
+
       - layout: left
         title: 삼성전자
         sub_title: 삼성전자 GSCM FP모듈 개발/운영
@@ -153,16 +160,21 @@ content:
           - GSCM ver2 FP모듈 개발참여
     
       - layout: left
-        title: 삼성전자
-        sub_title: 삼성전자 무선사업부 HR시스템 개발
-        caption: 2012.07~2013.03 
+        title: 기타 단기 프로젝트
+        sub_title: |
+          - KTF 가입/개통시스템 
+          - 동양생명 차세대
+          - 해양수산부 전산센터
+        caption: 2006.06~2009.04 
         description: |
-          - 삼성전자 무선사업부 인사모듈 개발참여
+          - KTF Wise 전자문서 시스템 운영
+          - 동양생명 차세대 고객정보모듈 개발
+          - 해양수산부 서버관리 및 배치시스템운영
 
   - title: Education
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: 안양대학교
         sub_title: 컴퓨터 공학과 졸업
         caption: Date Range (eg. 2004 - 2006)
