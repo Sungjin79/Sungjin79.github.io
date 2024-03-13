@@ -82,10 +82,10 @@ content:
         title: 무신사
         sub_title: 무신사 물류시스템 개발
         caption: 2019.07~현재
-        quote: >
-          #무신사 내부시스템(출고정보) 자동화 개발(크롤링)
+          
         description: | # this will include new lines to allow paragraphs
-          #무신사 OMS(Order management System) 와 삼성SDS WMS(Ware house Management System)간의 (입/출고인터페이스 협의/개발).
+          - 무신사 내부시스템(출고정보) 자동화 개발(크롤링)
+          - 무신사 OMS(Order management System) 와 삼성SDS WMS(Ware house Management System)간의 (입/출고인터페이스 협의/개발).
 
   - title: Education
     layout: list
