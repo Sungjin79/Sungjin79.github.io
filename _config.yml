@@ -61,12 +61,15 @@ content:
         title: OS
         description: | # this will include new lines to allow paragraphs
           - Windows , Mac
+      - layout: left
         title: Langage
         description: | # this will include new lines to allow paragraphs
           - Java , Python
+      - layout: left
         title: DBMS
         description: | # this will include new lines to allow paragraphs
           - My-sql, Oracle
+      - layout: left
         title: Tool
         description: | # this will include new lines to allow paragraphs
           - 마이플렛폼 , 엑스플렛폼 , 
