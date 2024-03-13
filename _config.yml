@@ -54,7 +54,25 @@ additional_links:
 about_content: | # this will include new lines to allow paragraphs
   2006년부터 주로 대기업 위주의 프로젝트를 진행하는 프리랜서 개발자로 일을 하였고 4년전 의류회사의 물류팀으로 입사하여 **OMS, WMS, ManagerSystem, BI자동데이터수집**등의 제품을 만드는데 기여하였습니다.
 content:
-  
+  - title: Skill # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: OS
+        description: | # this will include new lines to allow paragraphs
+          - Windows , Mac
+        title: Langage
+        description: | # this will include new lines to allow paragraphs
+          - Java , Python
+        title: DBMS
+        description: | # this will include new lines to allow paragraphs
+          - My-sql, Oracle
+        title: Tool
+        description: | # this will include new lines to allow paragraphs
+          - 마이플렛폼 , 엑스플렛폼 , 
+          - Spring boot , Django , Flask , 전자정부프레임워크, 
+          - Git ,SVN, 
+          - Vscode , intelliJ ,eclipse
   - title: Experience
     layout: list
     content:
@@ -150,25 +168,7 @@ content:
           - KTF Wise 전자문서 시스템 운영
           - 동양생명 차세대 고객정보모듈 개발
           - 해양수산부 서버관리 및 배치시스템운영
-- title: Skill # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: OS
-        description: | # this will include new lines to allow paragraphs
-          - Windows , Mac
-        title: Langage
-        description: | # this will include new lines to allow paragraphs
-          - Java , Python
-        title: DBMS
-        description: | # this will include new lines to allow paragraphs
-          - My-sql, Oracle
-        title: Tool
-        description: | # this will include new lines to allow paragraphs
-          - 마이플렛폼 , 엑스플렛폼 , 
-          - Spring boot , Django , Flask , 전자정부프레임워크, 
-          - Git ,SVN, 
-          - Vscode , intelliJ ,eclipse
+
   - title: Education
     layout: list
     content:
