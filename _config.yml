@@ -82,17 +82,17 @@ content:
         title: **무신사**
         sub_title: 무신사 물류시스템 개발
         caption: 2019.07~현재
-        description: | # this will include new lines to allow paragraphs
-          ⦁	무신사 내부시스템(출고정보) 자동화 개발(크롤링)
+        description: >
+          ⦁	무신사 내부시스템(출고정보) 자동화 개발(크롤링)|
 
-          ⦁	무신사 OMS(Order management System) 와 삼성SDS WMS(Ware house Management System)간의 (입/출고)인터페이스 협의/개발
+          ⦁	무신사 OMS(Order management System) 와 삼성SDS WMS(Ware house Management System)간의 (입/출고)인터페이스 협의/개발|
 
-          ⦁	무신사 물류운영팀 자동화 웹사이트(Musinsa Management Web) 개발
+          ⦁	무신사 물류운영팀 자동화 웹사이트(Musinsa Management Web) 개발|
 
-          ⦁	무신사 BI(Business Inteligence)시스템을 위한 데이터(크롤링) 자동수집 프로그램 
+          ⦁	무신사 BI(Business Inteligence)시스템을 위한 데이터(크롤링) 자동수집 프로그램 |
 
-          ⦁	무신사 WMS 신규구축 프로젝트 개발
-          
+          ⦁	무신사 WMS 신규구축 프로젝트 개발|
+
 
 
   - title: Education
