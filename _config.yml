@@ -78,7 +78,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: 무신사
         sub_title: 무신사 물류시스템 개발
         caption: 2019.07~현재
