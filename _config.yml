@@ -88,17 +88,86 @@ content:
           - 무신사 물류운영팀 자동화 웹사이트(Musinsa Management Web)개발
           - 무신사 BI(Business Inteligence)시스템을 위한 데이터(크롤링) 자동수집 프로그램
           - 무신사 WMS 신규구축 프로젝트 개발
+      - layout: left
+        title: 현대자동차
+        sub_title: 현대자동차 텔레매틱스
+        caption: 2018.01~2019.06
+        description: |
+          - 통합통계시스템 개발/운영
+            - 상용차 달별/분기별 판매현황 화면개발
+            - 판매차종별/생산차종별 달별/분기별 판매현황 화면개발
+            - 콜센터 콜현황 통계 화면개발
+            - 콜센터 직원별 콜현황 통계 화면개발
+          - 상담지원 시스템운영
+          - 상담지원 배치시스템운영
+      
+      - layout: left
+        title: SK하이닉스
+        sub_title: Global ERP 고도화과재 자재수급시스템,해외 외주 물류시스템
+        caption: 2016.06~2018.01 
+        description: |
+          - Global ERP 고도화과재 자재수급시스템 개발
+            - 생산단계별 업체 메일링 서비스 개발
+            - 생산품 이동 및 도착 메일링 서비스 개발
+          - 해외 외주 물류시스템 개발
+            - 외주생산품 리스트 화면개발
+            - 외주생산품 상/하차 리스트 화면개발
+            - 외주생산품 Packing 화면개발
+      
+      - layout: left
+        title: 삼성SDI 
+        sub_title: 삼성SDI GSCM 소형/중형 시스템 개발
+        caption: 2015.11~2016.05  
+        description: |
+          - SDI 소형배터리 생산계획 화면개발
+          - SDI 중형배터리 생산계획 화면개발
 
+      - layout: left
+        title: 코레일
+        sub_title: 코레일 광역정산시스템 개발/운영
+        caption: 2014.07~2015.10 
+        description: |
+          - 지하철/기차 정산시스템 화면수정 및 요금변동에 따른 로직수정
+          - 레일플러스 앱(안드로이드/IOS) 관리운영
+
+      - layout: left
+        title: 롯데백화점
+        sub_title: 롯데백화점 엘롯데 쇼핑몰 개발
+        caption: 2013.12~2014.06 
+        description: |
+          - OPENAPI 개발
+
+      - layout: left
+        title: 삼성전기
+        sub_title: 삼성전기 선행검증시스템 개발
+        caption: 2013.04~2013.11 
+        description: |
+          - 부품수급 검증모듈 개발참여
+        
+      - layout: left
+        title: 삼성전자
+        sub_title: 삼성전자 GSCM FP모듈 개발/운영
+        caption: 2009.04~2012.06  
+        description: |
+          - GSCM ver1 FP모듈 개발참여
+          - GSCM ver2 FP모듈 개발참여
+    
+      - layout: left
+        title: 삼성전자
+        sub_title: 삼성전자 무선사업부 HR시스템 개발
+        caption: 2012.07~2013.03 
+        description: |
+          - 삼성전자 무선사업부 인사모듈 개발참여
 
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: right
         title: 안양대학교
         sub_title: 컴퓨터 공학과 졸업
         caption: Date Range (eg. 2004 - 2006)
-        description: | # this will include new lines to allow paragraphs
-          2004년 안양대학교에 편입
+        description: |
+          - 2004년 안양대학교에 편입
 
   - title: A Little More About Me
     layout: text
