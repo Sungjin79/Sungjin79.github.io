@@ -52,10 +52,14 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 # about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  2006년부터 주로 대기업 위주의 프로젝트를 진행하는 프리랜서 개발자로 일을 하였고 
+  2006년부터 주로 대기업 위주의 프로젝트를 진행하는 프리랜서 개발자로 일을 하였고
+
   4년전 일 주문량 평균 20000여건 많게는 40000건 까지 정보를 처리하고 출고결과를 인터페이스 하는 **OMS(Order Management System)**,
-  물류센터의 입/출고를 담당하는 **WMS(Warehouse Manage)**, 
-  물류운영관리 시스템 **ManagerSystem**, 
+
+  물류센터의 입/출고를 담당하는 **WMS(Warehouse Manage)**,
+
+  물류운영관리 시스템 **ManagerSystem**,
+  
   **물류 BI자동데이터수집**등을 개발하였습니다.
 
 content:
