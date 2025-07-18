@@ -89,6 +89,14 @@ content:
     layout: list
     content:
       - layout: left
+        title: 다비치 안경
+        sub_title: 다비치 안경 차세대 
+        caption: 2024.05~현재
+        description: |
+          - 다비치안경 체인시스템 판매, 재고 카테고리 개발
+          - 다비치안경 스마트 다비치 모바일 개발
+          - 다비치안경 스마트 다비치 PDA 개발
+      - layout: left
         title: 무신사
         sub_title: 무신사 물류시스템 개발
         caption: 2019.07~현재  
