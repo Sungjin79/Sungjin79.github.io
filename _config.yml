@@ -81,9 +81,9 @@ content:
       - layout: left
         title: Tool
         description: | # this will include new lines to allow paragraphs
-          - 마이플렛폼 , 엑스플렛폼  
+          - 마이플렛폼 , 엑스플렛폼 , 넥사크로 , 파워빌더
           - Spring boot , Django , Flask , 전자정부프레임워크
-          - Git , SVN
+          - Git , SVN , FaskAPI
           - Vscode , intelliJ , eclipse
   - title: Experience
     layout: list
