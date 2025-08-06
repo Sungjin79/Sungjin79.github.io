@@ -70,22 +70,22 @@ content:
       - layout: left
         title: OS
         description: | # this will include new lines to allow paragraphs
-          - Windows , Mac
+          Windows , Mac
       - layout: left
-        title: Langage
+        title: Language
         description: | # this will include new lines to allow paragraphs
-          - Java , Python
+          Java , Python
       - layout: left
         title: DBMS
         description: | # this will include new lines to allow paragraphs
-          - My-sql, Oracle
+          My-sql, Oracle
       - layout: left
         title: Tool
         description: | # this will include new lines to allow paragraphs
-          - 마이플렛폼 , 엑스플렛폼 , 넥사크로 , 파워빌더
-          - Spring boot , Django , Flask , 전자정부프레임워크, FaskAPI
-          - Git , SVN 
-          - Vscode , intelliJ , eclipse
+          마이플렛폼 , 엑스플렛폼 , 넥사크로 , 파워빌더
+          Spring boot , Django , Flask , 전자정부프레임워크, FastAPI
+          Git , SVN 
+          Vscode , intelliJ , eclipse
   - title: Experience
     layout: list
     content:
