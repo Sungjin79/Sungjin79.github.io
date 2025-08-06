@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: 고성진
-title: Back-end Developer
+title: Back-end & Web Developer
 email: reconk2@naver.com
 # email_title: Email (Email title override)
 phone: 010-4717-5344
@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   물류센터의 입/출고를 담당하는 **WMS(Warehouse Manage System)**, 물류운영관리 시스템 **ManagerSystem**, 물류 **BI자동데이터수집**등을 설계/개발을 진행하였습니다.
 
-  현재는 다시 프리랜서/정규직 물류시스템 관련 프로젝트 위주로 일을 하고 있습니다.
+  현재는 다시 프리랜서/정규직 물류시스템 관련 프로젝트 위주로 일을 찾고 있습니다.
 content:
   - title: Skill # Title for the section
     layout: list # Type of content section (list/text)
@@ -96,7 +96,7 @@ content:
       - layout: left
         title: 무신사
         sub_title: 무신사 물류시스템 개발
-        caption: 2019.07~현재  
+        caption: 2019.07~2024.04
         description: |
           - 무신사 내부시스템(출고정보) 자동화 개발(크롤링)
           - 무신사 OMS(Order management System) 와 삼성SDS WMS(Ware house Management System)간의 (입/출고인터페이스 협의/개발)
