@@ -52,13 +52,18 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 # about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  2006년부터 주로 대기업 위주의 프로젝트를 진행하는 프리랜서 개발자로 일을 하였고
+  
+프리랜서로 일하던 중 좋은 기회로 무신사에 입사하게 되었고, 물류센터의 공사 초기 단계부터 센터 간 물류 이동, 입고부터 출고, 재고 관리 등 전반적인 운영 과정을 직접 경험했습니다. 
 
-  4년전에는 정규직으로 일 주문량 평균 20000여건 많게는 40000건 까지 정보를 처리하고 출고결과를 인터페이스 하는 **OMS(Order Management System)**,
+무신사 OMS의 초기 모델 기획과 설계에 참여하였으며, 이후 자체 WMS 개발 프로젝트에도 동료 개발자들과 함께 참여하여 성공적으로 시스템을 구축한 후 퇴사하였습니다.
 
-  물류센터의 입/출고를 담당하는 **WMS(Warehouse Manage System)**, 물류운영관리 시스템 **ManagerSystem**, 물류 **BI자동데이터수집**등을 설계/개발을 진행하였습니다.
+약 5년간 본사와 물류센터를 오가며 OMS와 WMS 시스템의 운영과 개발을 경험하면서 해당 분야에 큰 관심을 가지게 되었고, 
 
-  현재는 다시 프리랜서/정규직 물류시스템 관련 프로젝트 위주로 일을 찾고 있습니다.
+현재는 프리랜서로 일하며 개인 프로젝트를 통해 관련 기술을 꾸준히 학습하고 있습니다. 
+
+특히 물류센터 운영 시 필요한 **모니터링 시스템**, **자동화**, **데이터 기반 운영 최적화** 등에 흥미를 갖고 있으며, 이와 관련된 분야에서 역량을 발휘하고자 합니다.
+ 
+ 
 content:
   - title: Skill # Title for the section
     layout: list # Type of content section (list/text)
