@@ -51,18 +51,16 @@ additional_links:
 # About Section
 # about_title: About Me (Use this to override about section title)
 # about_profile_image: Directory of profile image (eg. images/profile.jpg)
-about_content: | # this will include new lines to allow paragraphs
+about_content: | # this will include new lines to allow paragraphs  
+  프리랜서로 일하던 중 좋은 기회로 무신사에 입사하게 되었고, 물류센터의 공사 초기 단계부터 센터 간 물류 이동, 입고부터 출고, 재고 관리 등 전반적인 운영 과정을 직접 경험했습니다. 
   
-프리랜서로 일하던 중 좋은 기회로 무신사에 입사하게 되었고, 물류센터의 공사 초기 단계부터 센터 간 물류 이동, 입고부터 출고, 재고 관리 등 전반적인 운영 과정을 직접 경험했습니다. 
-
-무신사 OMS의 초기 모델 기획과 설계에 참여하였으며, 이후 자체 WMS 개발 프로젝트에도 동료 개발자들과 함께 참여하여 성공적으로 시스템을 구축한 후 퇴사하였습니다.
-
-약 5년간 본사와 물류센터를 오가며 OMS와 WMS 시스템의 운영과 개발을 경험하면서 해당 분야에 큰 관심을 가지게 되었고, 
-
-현재는 프리랜서로 일하며 개인 프로젝트를 통해 관련 기술을 꾸준히 학습하고 있습니다. 
-
-특히 물류센터 운영 시 필요한 **모니터링 시스템**, **자동화**, **데이터 기반 운영 최적화** 등에 흥미를 갖고 있으며, 이와 관련된 분야에서 역량을 발휘하고자 합니다.
- 
+  무신사 OMS의 초기 모델 기획과 설계에 참여하였으며, 이후 자체 WMS 개발 프로젝트에도 동료 개발자들과 함께 참여하여 성공적으로 시스템을 구축한 후 퇴사하였습니다.
+  
+  약 5년간 본사와 물류센터를 오가며 OMS와 WMS 시스템의 운영과 개발을 경험하면서 해당 분야에 큰 관심을 가지게 되었고, 
+  
+  현재는 프리랜서로 일하며 개인 프로젝트를 통해 관련 기술을 꾸준히 학습하고 있습니다. 
+  
+  특히 물류센터 운영 시 필요한 **모니터링 시스템**, **자동화**, **데이터 기반 운영 최적화** 등에 흥미를 갖고 있으며, 이와 관련된 분야에서 역량을 발휘하고자 합니다. 
 content:
   - title: Skill # Title for the section
     layout: list # Type of content section (list/text)
