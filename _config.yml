@@ -60,7 +60,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   현재는 프리랜서로 일하며 개인 프로젝트를 통해 관련 기술을 꾸준히 학습하고 있습니다. 
   
-  특히 물류센터 운영 시 필요한 **모니터링 시스템**, **자동화**, **데이터 기반 운영 최적화** 등에 흥미를 갖고 있으며, 이와 관련된 분야에서 역량을 발휘하고자 합니다. 
+  특히 물류센터 운영 시 필요한 **모니터링 시스템**, **자동화[RPA]**, **데이터 기반 운영 최적화** 등에 흥미를 갖고 있으며, 이와 관련된 분야에서 역량을 발휘하고자 합니다. 
 content:
   - title: Skill # Title for the section
     layout: list # Type of content section (list/text)
@@ -87,6 +87,14 @@ content:
   - title: Experience
     layout: list
     content:
+      - layout: left
+        title: 효성 TNS
+        sub_title: 효성 TNS 미국 텍사스주 댈러스 MES Project 
+        caption: 2024.05~현재
+        description: |
+          - ATM /부품 출하 분석/설계
+          - ATM 반품 및 클레임 분석/설계
+          - Scrap(폐기) 분석 설계
       - layout: left
         title: 다비치 안경
         sub_title: 다비치 안경 차세대 
@@ -205,7 +213,7 @@ content:
 
       고객의 Needs에 맞추지만 고객을 설득할 수 있어야 하고 그 설득에 맞춰 책임을 다하는 서비스를 해야 합니다.
 
-      이 열정으로 열심히 하겠습니다..
+      이 열정으로 열심히 일 하겠습니다.
 
 # Footer
 footer_show_references: true
