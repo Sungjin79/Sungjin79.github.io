@@ -80,7 +80,7 @@ content:
       - layout: left
         title: Tool
         description: | # this will include new lines to allow paragraphs
-          마이플렛폼 , 엑스플렛폼 , 넥사크로 , 파워빌더
+          마이플렛폼 , 엑스플렛폼 , 넥사크로 N, 넥사크로 모바일 , 파워빌더
           Spring boot , Django , Flask , 전자정부프레임워크, FastAPI
           Git , SVN 
           Vscode , intelliJ , eclipse
@@ -88,9 +88,17 @@ content:
     layout: list
     content:
       - layout: left
+        title: 비오시스템즈
+        sub_title: 무인양품 차세대 ERP Project 모바일&웹 화면개발 
+        caption: 2025.12~2026.06
+        description: |
+          - ATM /부품 출하 분석/설계
+          - ATM 반품 및 클레임 분석/설계
+          - Scrap(폐기) 분석 설계
+      - layout: left
         title: 효성 TNS
         sub_title: 효성 TNS 미국 텍사스주 댈러스 MES Project 
-        caption: 2024.05~현재
+        caption: 2025.08~2025.12
         description: |
           - ATM /부품 출하 분석/설계
           - ATM 반품 및 클레임 분석/설계
@@ -98,7 +106,7 @@ content:
       - layout: left
         title: 다비치 안경
         sub_title: 다비치 안경 차세대 
-        caption: 2024.05~현재
+        caption: 2024.05~2025.08
         description: |
           - 다비치안경 체인시스템 판매, 재고 카테고리 개발
           - 다비치안경 스마트 다비치 모바일 개발
